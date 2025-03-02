@@ -16,9 +16,9 @@ This homelab demonstrates my experience setting up an Active Directory environme
 5. Verified setup using PowerShell and Active Directory Users & Computers (ADUC).
 
 ## Verification Screenshots
-![Users and Computers]([images/Users%20and%20Computers.png](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Users%20and%20Computers.png)) 
-![Computer Description]([images/Computer%20Description.png](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Computer%20Description.png))
-![Windows 10]([images/Windows%2010.png](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Windows%2010.png))
+![Users and Computers](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Users%20and%20Computers.png?raw=true) 
+![Computer Description](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Computer%20Description.png?raw=true)
+![Windows 10](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Windows%2010.png?raw=true)
 
 ## PowerShell Commands Used
 ```powershell
