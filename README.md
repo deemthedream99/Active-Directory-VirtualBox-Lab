@@ -16,9 +16,9 @@ This homelab demonstrates my experience setting up an Active Directory environme
 5. Verified setup using PowerShell and Active Directory Users & Computers (ADUC).
 
 ## Verification Screenshots
-![ADUC Screenshot](screenshots/aduc.png)
-![Domain-Joined Client](screenshots/client.png)
-
+![ADUC Screenshot](screenshots/Computer Description.png)
+![Domain-Joined Client](screenshots/Users and Computers.png)
+![Domain-Joined Client](screenshots/Windows 10.png)
 ## PowerShell Commands Used
 ```powershell
 # List all domain-joined computers
