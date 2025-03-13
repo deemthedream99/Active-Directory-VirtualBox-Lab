@@ -1,7 +1,7 @@
-# Active Directory Homelab Setup 🚀
+# Active Directory Homelab Setup 
 
 ## Overview
-This homelab demonstrates my experience setting up an Active Directory environment on Windows Server 2022.
+This project demonstrates my experience setting up an Active Directory environment on Windows Server 2022.
 
 ## Components
 - Windows Server 2022 (Domain Controller)
