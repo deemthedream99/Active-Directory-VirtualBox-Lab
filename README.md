@@ -19,11 +19,3 @@ This homelab demonstrates my experience setting up an Active Directory environme
 ![Users and Computers](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Users%20and%20Computers.png?raw=true) 
 ![Computer Description](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Computer%20Description.png?raw=true)
 ![Windows 10](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab/blob/main/Windows%2010.png?raw=true)
-
-## PowerShell Commands Used
-```powershell
-# List all domain-joined computers
-Get-ADComputer -Filter * | Select Name, OperatingSystem
-
-# Create a new user
-New-ADUser -Name "John Doe" -GivenName "John" -Surname "Doe" -SamAccountName "jdoe" -UserPrincipalName "jdoe@lab.local" -Path "CN=Users,DC=lab,DC=local" -AccountPassword (ConvertTo-SecureString "P@ssw0rd" -AsPlainText -Force) -Enabled $true
